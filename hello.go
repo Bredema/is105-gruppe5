@@ -8,5 +8,5 @@ func main() {
 	fmt.Println("halla")
 }
 
-
+ "Mikael la til denne teksten"
 "JK surret her"
