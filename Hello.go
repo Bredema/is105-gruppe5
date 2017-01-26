@@ -8,6 +8,6 @@ func main() {
 	fmt.Println("Her er enda en endring")
 	fmt.Println("Eirik sier hallo") // KOMMENTAR
 	fmt.Println("yolo")
-	fmt.Println("Mats var her")
+	fmt.Println("Det var ikke meg")
 
 }
