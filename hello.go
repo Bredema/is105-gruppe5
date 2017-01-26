@@ -7,4 +7,6 @@ func main() {
 	fmt.Println("Hola!")
 	fmt.Println("halla")
 }
+
  "Mikael la til denne teksten"
+"JK surret her"
