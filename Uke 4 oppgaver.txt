@@ -27,30 +27,32 @@ Oppgave 1.2.2
 
 (1) 3-bit = 8 muligheter (tall, 0-7). (000, 001, 010, 100, 100, 101, 110, 111)
 4 Oddetall (1, 3, 5 og 7)
-Formel fra første forelesning: log2(8/4) = log2(2) = 1 bit.
+Formel fra fÃ¸rste forelesning: log2(8/4) = log2(2) = 1 bit.
 
-(2) Ikke multiplum av 3 (0, 3, 6). Da gjenstår 1, 2, 4, 5, 7.
+(2) Ikke multiplum av 3 (0, 3, 6). Da gjenstÃ¥r 1, 2, 4, 5, 7.
 Log2(8/5) = 0.678072 bit. 
 
 (3) 011, 101, 110
 Log2(8/3) =  ~1.4 bit.
 
-(4) Tall vi vet er tatt: 1, 2, 3, 4, 5, 6 og 7. Gjenstår bare 0?
+(4) Tall vi vet er tatt: 1, 2, 3, 4, 5, 6 og 7. GjenstÃ¥r bare 0?
 Log2(8/1) = 3
 
 1.2.3
-Begynte med å opprette et repository fra GitHub og klonet dette ved bruk av
-git clone <URL>. Så laget vi filen "Hello.go" og brukte git add Hello.go, git commit -m
-"melding" og git push origin master for å opplaste den til GitHub.
+Begynte med Ã¥ opprette et repository fra GitHub og klonet dette ved bruk av
+git clone <URL>. SÃ¥ laget vi filen "Hello.go" og brukte git add Hello.go, git commit -m
+"melding" og git push origin master for Ã¥ opplaste den til GitHub.
 
 1.2.4
 (1) Link til hovedrepository: 
-Fordeler: Parallell jobbing fungerer godt, enkelte kan gjøre endringer, så kan andre 
-i gruppen sjekke om jobber er gjort bra. Det er også lettere å gå tilbake å gjør endringer
+Fordeler: Parallell jobbing fungerer godt, enkelte kan gjÃ¸re endringer, sÃ¥ kan andre 
+i gruppen sjekke om jobber er gjort bra. Det er ogsÃ¥ lettere Ã¥ gÃ¥ tilbake Ã¥ gjÃ¸r endringer
 hvis det er noe som ikke fungerer.
-Ulemper: Kanskje hvis man ikke er flink til å update/merge ofte branchen sin, så kan det bli
+Ulemper: Kanskje hvis man ikke er flink til Ã¥ update/merge ofte branchen sin, sÃ¥ kan det bli
 mye og uoversiktlig.
 
-(2) Gjorde mye av det samme som i 1.2.3 når vi først hadde fått tilgang til hovedrepositoren,
+(2) Gjorde mye av det samme som i 1.2.3 nÃ¥r vi fÃ¸rst hadde fÃ¥tt tilgang til hovedrepositoren,
 bare at vi gjorde endringer i egen branch (som ble laget ved git checkout -b <branchnavn>), og
 sendte enn pull request og merget med master. (git merge <branchnavn>).
+Windows: DLL, EXE. Linux: ELF. Mac:
+Fordi de ulike platformene har ulike mÃ¥ter de leser og kaller pÃ¥ binÃ¦re tallkoder.
