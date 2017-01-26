@@ -10,5 +10,7 @@ func main() {
 	fmt.Println("Eirik sier hei") //überfin kommentar
 }
 
+"Morten la til denne teksten"
  "Mikael la til denne teksten"
 "JK surret her"
+
