@@ -44,7 +44,7 @@ git clone <URL>. Så laget vi filen "Hello.go" og brukte git add Hello.go, git c
 "melding" og git push origin master for å opplaste den til GitHub.
 
 1.2.4
-(1) Link til hovedrepository: 
+(1) Link til hovedrepository: https://github.com/Bredema/is105-uke04
 Fordeler: Parallell jobbing fungerer godt, enkelte kan gjøre endringer, så kan andre 
 i gruppen sjekke om jobber er gjort bra. Det er også lettere å gå tilbake å gjør endringer
 hvis det er noe som ikke fungerer.
