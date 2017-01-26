@@ -1,0 +1,7 @@
+Forslag til kode aa bygge paa: 
+
+package main
+
+func Log2(number float64) float64 {
+return Log(number) / Log2(2)
+}
