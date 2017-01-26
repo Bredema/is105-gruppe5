@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("halla")
 	fmt.Println("nils var her")
 }
+
  "Mikael la til denne teksten"
+"JK surret her"
