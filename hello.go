@@ -1,4 +1,4 @@
-package main
+﻿package main
 
 import "fmt"
 
@@ -7,3 +7,6 @@ func main() {
 	fmt.Println("Hola!")
 	fmt.Println("halla")
 }
+
+
+"JK surret her"
