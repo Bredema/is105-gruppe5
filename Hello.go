@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("Eirik sier hallo") // KOMMENTAR
 	fmt.Println("yolo")
 	fmt.Println("Det var ikke meg")
+	fmt.Println("nils")
 
 }
