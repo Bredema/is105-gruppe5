@@ -7,6 +7,7 @@ func main() {
 	fmt.Println("Hola!")
 	fmt.Println("halla")
 	fmt.Println("nils var her")
+	fmt.Println("Eirik sier hei") //überfin kommentar
 }
 
  "Mikael la til denne teksten"
