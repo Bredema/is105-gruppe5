@@ -4,6 +4,6 @@ import "math"
 import "fmt"
 
 func main() {
-fmt.Println(math.Log2(2))
+fmt.Println(math.Log2(4))
 
 }
