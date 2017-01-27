@@ -54,5 +54,5 @@ mye og uoversiktlig.
 (2) Gjorde mye av det samme som i 1.2.3 når vi først hadde fått tilgang til hovedrepositoren,
 bare at vi gjorde endringer i egen branch (som ble laget ved git checkout -b <branchnavn>), og
 sendte enn pull request og merget med master. (git merge <branchnavn>).
-Windows: DLL, EXE. Linux: ELF. Mac:EXC.
+Windows: DLL, EXE. Linux: ELF (buildavhengig). Mac:EXC.
 Fordi de ulike platformene har ulike måter de leser og kaller på binære tallkoder.
