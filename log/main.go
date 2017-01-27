@@ -1,9 +1,18 @@
 package main
 
-import "math"
 import "fmt"
+import "os"
+import "strconv"
+import "./log"
 
 func main() {
-fmt.Println(math.Log2(2))
-
+number, err := strconv.ParseFloat(os.Args[1], 64)
+if err != nil {fmt.Println(err)
+} else {
+  base, err := strconv.ParseFloat(os.Args[2], 64)
+  if err != nil {fmt.Println(err)
+  } else {
+    fmt.Printf("That number is %f!\n", log.Logresult(number, base))
+  }
+}
 }
