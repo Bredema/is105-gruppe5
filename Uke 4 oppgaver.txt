@@ -5,13 +5,13 @@ Oppgave 1.2.1
 5 = 101
 8 = 1000
 16 = 10000
-256 = 100.000.000
+256 = 100 000 000
 
 2^0=1       1 = (2^0 x 1) = 1
 2^1=2       2 = (2^0 x 0) + (2^1 x 1) = 10
 2^2=4       5 = (2^0 x 1) + (2^1 x 0) + (2^2 x 1) = 101
 2^3=8       8 = osv.
-2^4=16
+2^4=16      
 2^5=32
 2^6=64
 2^7=128
@@ -62,4 +62,8 @@ En av de største forskjellene mellom Java og Golang er at Golang leser koda en 
 Golang er heller ikke objektorientert, noe som java er.
 
 (4)
+
+(5)
+Nei! Den eneste hensikten å ha et utførbart program i Repositoryen er for å dele den med resten av gruppen. MEN, siden alle har tilgang til .go filene vil alle kunne builde sine egne programmer, så mye av hensikten faller egentlig bort.
+i tilleg så vil man måtte “builde” forskjellige filer for forskjellige operativsystemer.
 
