@@ -63,3 +63,7 @@ Golang er heller ikke objektorientert, noe som java er.
 
 (4)
 
+(5)
+Nei! Den eneste hensikten å ha et utførbart program i Repositoryen er for å dele den med resten av gruppen. MEN, siden alle har tilgang til .go filene vil alle kunne builde sine egne programmer, så mye av hensikten faller egentlig bort.
+i tilleg så vil man måtte “builde” forskjellige filer for forskjellige operativsystemer.
+
