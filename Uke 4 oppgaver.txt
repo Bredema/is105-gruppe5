@@ -23,7 +23,8 @@ Oppgave 1.2.1
 1100110011 = 512 + 256 + 0x128 + 0x64 + 32 + 16 + 0x8 + 0x4 + 2 + 1 = 819 
 ^10 siffre, derfor 2^9
 
-Bruker 2-tallsystemet, og finner hvilket verdi som tilsvarer en plass (2^0 osv.). Dette gjør vi både når man skal konvertere fra 2-tallsystemet til 10-tallsystemet, og andre veien.
+Bruker 2-tallsystemet, og finner hvilket verdi som tilsvarer en plass (2^0 osv.). Dette gjør vi både når man skal konvertere 
+fra 2-tallsystemet til 10-tallsystemet, og andre veien.
 
 Oppgave 1.2.2
 
