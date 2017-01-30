@@ -5,13 +5,13 @@ Oppgave 1.2.1
 5 = 101
 8 = 1000
 16 = 10000
-256 = 100.000.000
+256 = 100 000 000
 
 2^0=1       1 = (2^0 x 1) = 1
 2^1=2       2 = (2^0 x 0) + (2^1 x 1) = 10
 2^2=4       5 = (2^0 x 1) + (2^1 x 0) + (2^2 x 1) = 101
 2^3=8       8 = osv.
-2^4=16
+2^4=16      
 2^5=32
 2^6=64
 2^7=128
@@ -22,6 +22,8 @@ Oppgave 1.2.1
 1001 = 1*2^3 + 0*2^2 + 0*2^1 + 1*2^0 = 8 + 0 + 0 +1 = 9
 1100110011 = 512 + 256 + 0x128 + 0x64 + 32 + 16 + 0x8 + 0x4 + 2 + 1 = 819 
 ^10 siffre, derfor 2^9
+
+Bruker 2-tallsystemet, og finner hvilket verdi som tilsvarer en plass (2^0 osv.). Dette gjør vi både når man skal konvertere fra 2-tallsystemet til 10-tallsystemet, og andre veien.
 
 Oppgave 1.2.2
 
