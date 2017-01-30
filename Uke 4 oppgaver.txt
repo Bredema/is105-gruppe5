@@ -58,3 +58,8 @@ Windows: DLL, EXE. Linux: ELF (buildavhengig). Mac:EXC.
 Fordi de ulike platformene har ulike måter de leser og kaller på binære tallkoder.
 
 (3) 
+En av de største forskjellene mellom Java og Golang er at Golang leser koda en linje av gangen, og kan dermed kjøre store deler av programmet før den crasher, mens java krever at hele koden er feilfri.
+Golang er heller ikke objektorientert, noe som java er.
+
+(4)
+
