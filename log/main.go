@@ -7,7 +7,7 @@ import "./log"
 
 func main() {
 number, err := strconv.ParseFloat(os.Args[1], 64)
-if err != nil {fmt.Println(err)
+if err != nil {fmt.Println("Arguments are Log(number) Log(base)", err)
 } else {
   base, err := strconv.ParseFloat(os.Args[2], 64)
   if err != nil {fmt.Println(err)
