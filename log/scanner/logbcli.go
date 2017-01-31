@@ -14,6 +14,7 @@ func main() {
       scanner := bufio.NewScanner(os.Stdin)
       var text string
       var text2 string
+      fmt.Println("Skriv q som tall og base for å slutte programmet")
 
       for text != "q"{
         fmt.Print("Skriv inn tall: ")
@@ -38,7 +39,7 @@ func main() {
 
 
           fmt.Printf("That number is %f!\n", log.Logresult(tall, base))
-          
+
 
         }
       }
