@@ -22,8 +22,9 @@ han "puller" fra server.
 
 En objekt-fil er en fil som inneholder objekt kode, som betyr at kompilatoren oppretter en objekt fil for hver kilde-fil før den setter dem sammen til noe kjørbart.
 
-Windows: PE
-Mac: Mach-O
+- Windows: PE
+- Mac: Mach-O
+- linux: ELF
 
 I begynnelsen var det vanlig at hver type datamaskin hadde sitt eget unike format. Senere kom Unix, og andre operativ systemer som kan brukes I andre systemer enn det som den var laget for. Dette førte til at formatter som COFF og ELF nå brukes på ulike typer systemer. Systemene har også ulike objective formatter fordi de har ulike måter å lese og kalle på binære tallkoder.
 
