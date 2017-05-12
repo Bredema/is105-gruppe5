@@ -32,12 +32,21 @@ I begynnelsen var det vanlig at hver type datamaskin hadde sitt eget unike forma
 
 «…at Golang leser koden en linje av gangen, og kan dermed kjøre store deler av programmet før den crasher, mens java krever at hele koden er feilfri.» 
 
-Spør Jannis.
-
-
+[ IKKE FERDIG BESVART  ]
 
 
 -	Ingen nøkkelord som Public, og Private. Funksjoner  har stor forbokstav.
 -	Kompilerer raskere fordi Java bruker VM for å kjøre sin kode som gjør at det tar lengre tid enn for Go.
 -	Ingen semicolon nødvendig. Du kan bruke dem, men du må ikke, sammenlignet med Java.
 Når det kommer til variabeldeklarasjon, så krever Java at man spesifiserer type for variabelen, mens I Golang så antar kompilatoren typen hvis den ikke er 
+
+4)
+
+Versjonskontroll trenger ikke nødvendigvis å være plattformuavhengig enda, siden de fleste systemer er basert på unix, så er det vel enklere å kunne tilby gitbash som en løsning for windows baserte brukere. 
+På spørsmål om det bør være plattformavhengig, så vil det nok I fremtiden komme ulike operativsystemer som ikke bare tilhører unix og da kan det kanskje være mer relevant og utvikle versjonskontroll som kan være plattformuavhengig.
+Et  eksempel på effektivitet  kan være at du har to personer som jobber med debugging/ utvikling av en ny versjon.
+Du når et punkt der du ønsker å gi ut programvaren du har utviklet, men du må debugge/ teste. I mellomtiden så jobber din kollega på neste versjon av programvaren. Så I dette eksemplet så har du eldre kode og kode under utvikling separert som er en effektiv måte man kan jobbe på.
+
+GOPATH bruker vi for å vise til steder vi kan se etter Go kode. Den brukes også til å hente, bygge og installere pakker utenfor det som er standard I Go. 
+En forutsetning for å ha to filer I  samme mappe og den ene kalle opp funksjoner, som er definert I den andre er at begge filene må ha samme pakke navn.
+
